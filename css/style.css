@@ -42,7 +42,7 @@
   transition: 300ms all;
   background-size: cover;
   background-position: center;
-  background-color: #334145; 
+  /*background-color: #334145; */ 
 }
 .box-content{
   background-color: white;

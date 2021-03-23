@@ -15,4 +15,4 @@ for (var i = 0; i < titlearray.length; i++) {
     </div>` + fetch ; 
     var bgimg = document.getElementById(`cards${i}`);
     bgimg.style.backgroundImage = `url('../img/${titlearray[i]}.jpg')`;
-}
+} 
